@@ -2,12 +2,12 @@
 |------------:|:-------------------------------------------------------------------------------------|
 | Domain:     | [Coding Dojo](http://codingdojo.com) (cd)                                            |
 | Topic:      | Ruby on Rails (ror) <br> Understanding Rails - Controllers and Views (03controller)  |
-| Assignment: | Ninja Gold Game (05Gold)                                                             |
-| Repository: | cd-ror-03controller-05Gold                                                           |
+| Assignment: | Ninja Gold Game (05gold)                                                             |
+| Repository: | cd-ror-03controller-05gold                                                           |
 
 ## Deployment URL
 
-* http://cd-ror-03controller-05Gold.herokuapp.com
+* http://cd-ror-03controller-05gold.herokuapp.com
 
 ## Known Issues
 
