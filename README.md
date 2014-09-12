@@ -11,4 +11,4 @@
 
 ## Known Issues
 
-* Status messages are stored in session data. After about 20 rounds of play, it overflows. While it is possible to continue to play the game after the overflow occurs, the status updates are display unpredictably. The solution is to convert to storing and retrieving the messages to a database.
+* Status messages are stored and displayed accumulatively. After about 15 rounds of play, the error occurs "ActionDispatch::Cookies::CookieOverflow". To avoid the overflow, press the "Reset button on the game board and continue to play. The solution is to store and retrieve messages to the database.
