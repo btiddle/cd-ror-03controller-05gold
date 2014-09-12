@@ -5,10 +5,10 @@
 | Assignment: | Ninja Gold Game (05gold)                                                             |
 | Repository: | cd-ror-03controller-05gold                                                           |
 
+## Ninja Gold Game
+
+This game helps a ninja make some money! When you start the game, your ninja has 0 gold. The ninja can go to different places (farm, cave, house, casino) and earn different amounts of gold. In the case of a casino, your ninja can earn or lose up to 50 gold. The app allows the ninja to earn gold and display past activities.
+
 ## Deployment URL
 
 * http://cd-ror-03controller-05gold.herokuapp.com
-
-## Known Issues
-
-* Status messages are stored and displayed accumulatively. After about 15 rounds of pay, the error "ActionDispatch::Cookies::CookieOverflow" occurs. When the error happens, select the browser "Back" button and then the game board "Reset" button to resume play. The code fix will involve storing and retrieving messages to the database.
