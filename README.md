@@ -11,4 +11,4 @@
 
 ## Known Issues
 
-* Status messages are stored and displayed accumulatively. After about 15 rounds of play, the error occurs "ActionDispatch::Cookies::CookieOverflow". To avoid the overflow, press the "Reset button on the game board and continue to play. The solution is to store and retrieve messages to the database.
+* Status messages are stored and displayed accumulatively. After about 15 rounds of pay, the error "ActionDispatch::Cookies::CookieOverflow" occurs. When the error happens, select the browser "Back" button and then the game board "Reset" button to resume play. The code fix will involve storing and retrieving messages to the database.
